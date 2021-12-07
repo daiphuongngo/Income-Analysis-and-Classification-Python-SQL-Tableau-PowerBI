@@ -46,6 +46,6 @@ Next steps:
 
 ### Dashboard - Relationship between Capital Gain, Loss & Working Hours by Country
 
-https://public.tableau.com/app/profile/dai.phuong.ngo/viz/IncomeAnalysisClassification-Dashboard-RelationshipbetweenCapitalGainLossWorkingHoursbyCountry/Dashboard-RelationshipbetweenCapitalGainLossWorkingHoursbyCountry?publish=yes
+https://public.tableau.com/app/profile/dai.phuong.ngo/viz/IncomeAnalysis-Dashboard-RelationshipbetweenCapitalGainLossWorkingHoursbyCountry/Dashboard-RelationshipbetweenCapitalGainLossWorkingHoursbyCountry?publish=yes
 
-![Dashboard - Relationship between Capital Gain, Loss   Working Hours by Country](https://user-images.githubusercontent.com/70437668/144966436-031cb6f3-6a3f-42ef-bfc3-566b89e600ca.png)
+![Dashboard - Relationship between Capital Gain, Loss   Working Hours by Country](https://user-images.githubusercontent.com/70437668/144973385-37e9268a-e84b-4cbe-b66e-47c09d29de65.png)
