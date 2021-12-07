@@ -48,4 +48,4 @@ Next steps:
 
 https://public.tableau.com/app/profile/dai.phuong.ngo/viz/IncomeAnalysis-Dashboard-RelationshipbetweenCapitalGainLossWorkingHoursbyCountry/Dashboard-RelationshipbetweenCapitalGainLossWorkingHoursbyCountry?publish=yes
 
-![Dashboard - Relationship between Capital Gain, Loss   Working Hours by Country](https://user-images.githubusercontent.com/70437668/144973385-37e9268a-e84b-4cbe-b66e-47c09d29de65.png)
+![Dashboard - Relationship between Capital Gain, Loss   Working Hours by Country](https://user-images.githubusercontent.com/70437668/144988586-b3ee2d71-824a-4fff-a84d-d4edc777411c.png)
