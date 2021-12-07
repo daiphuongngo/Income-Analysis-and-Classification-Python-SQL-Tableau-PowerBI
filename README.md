@@ -43,3 +43,9 @@ Next steps:
 - Scale all features before building a Machine Learning model
 - Conclude after visualizing the next correlation and distribution charts
 - Outliers can be deleted easily on Tableau, but it might lead to a distortion in results, so checking the difference could be necessary.
+
+### Dashboard - Relationship between Capital Gain, Loss & Working Hours by Country
+
+https://public.tableau.com/app/profile/dai.phuong.ngo/viz/IncomeAnalysisClassification-Dashboard-RelationshipbetweenCapitalGainLossWorkingHoursbyCountry/Dashboard-RelationshipbetweenCapitalGainLossWorkingHoursbyCountry?publish=yes
+
+![Dashboard - Relationship between Capital Gain, Loss   Working Hours by Country](https://user-images.githubusercontent.com/70437668/144966436-031cb6f3-6a3f-42ef-bfc3-566b89e600ca.png)
